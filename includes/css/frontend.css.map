@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEQ,6BAAG;EACC,cAAc,EAAE,MAAM;EACtB,qCAAQ;IACJ,OAAO,EAAE,uBAAuB;IAChC,YAAY,EAAE,IAAI;IAClB,cAAc,EAAE,MAAM;IACtB,KAAK,EAAE,cAAc;IACrB,yCAAI;MACA,OAAO,EAAE,YAAY;MACrB,aAAa,EAAE,CAAC;EAGxB,6CAAgB;IACZ,OAAO,EAAE,YAAY;IACrB,YAAY,EAAE,IAAI;IAClB,cAAc,EAAE,MAAM",
+"sources": ["frontend.scss"],
+"names": [],
+"file": "frontend.css"
+}

@@ -1,0 +1,22 @@
+.product_listing.simple {
+    tr {
+        td {
+            vertical-align: middle;
+            a.image {
+                display: inline-block !important;
+                margin-right: 10px;
+                vertical-align: middle;
+                width: 25% !important;
+                img {
+                    display: inline-block;
+                    margin-bottom: 0;
+                }
+            }
+            a.product_title {
+                display: inline-block;
+                margin-right: 10px;
+                vertical-align: middle;
+            }
+        }
+    }
+}

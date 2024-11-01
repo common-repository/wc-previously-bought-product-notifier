@@ -1,0 +1,16 @@
+.product_listing.simple tr td {
+  vertical-align: middle; }
+  .product_listing.simple tr td a.image {
+    display: inline-block !important;
+    margin-right: 10px;
+    vertical-align: middle;
+    width: 25% !important; }
+    .product_listing.simple tr td a.image img {
+      display: inline-block;
+      margin-bottom: 0; }
+  .product_listing.simple tr td a.product_title {
+    display: inline-block;
+    margin-right: 10px;
+    vertical-align: middle; }
+
+/*# sourceMappingURL=frontend.css.map */

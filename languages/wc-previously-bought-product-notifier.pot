@@ -1,0 +1,290 @@
+# Copyright (C) 2017 Previously Bought Product Notifier For WooCommerce
+# This file is distributed under the same license as the Previously Bought Product Notifier For WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Previously Bought Product Notifier For WooCommerce 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wc-previously-bought-product-notifier\n"
+"POT-Creation-Date: 2017-07-21 11:46:48+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: bootstrap.php:51
+msgid "Cloning instances of the class is forbidden."
+msgstr ""
+
+#: bootstrap.php:63
+msgid "Unserializing instances of the class is forbidden."
+msgstr ""
+
+#: includes/admin/class-admin-init.php:85
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-admin-init.php:86
+msgid "Contact Author"
+msgstr ""
+
+#: includes/admin/class-admin-init.php:100
+msgid "F.A.Q"
+msgstr ""
+
+#: includes/admin/class-admin-init.php:101
+msgid "View On Github"
+msgstr ""
+
+#: includes/admin/class-admin-init.php:102
+msgid "Report Issue"
+msgstr ""
+
+#: includes/admin/class-admin-init.php:103
+msgid "Donate"
+msgstr ""
+
+#: includes/admin/settings_framework/class-wp-plugin-options.php:19
+#: includes/admin/settings_framework/class-wp-settings-framework.php:38
+msgid "Previously Bought Product Notifier For WooCommerce"
+msgstr ""
+
+#: includes/admin/settings_framework/class-wp-plugin-options.php:24
+msgid "Archive / Search Page"
+msgstr ""
+
+#: includes/admin/settings_framework/class-wp-plugin-options.php:25
+msgid "Single Product Page"
+msgstr ""
+
+#: includes/admin/settings_framework/fields.php:12
+#: includes/admin/settings_framework/fields.php:23
+msgid "Disable / Use Shortcode"
+msgstr ""
+
+#: includes/admin/settings_framework/fields.php:13
+#: includes/admin/settings_framework/fields.php:24
+msgid "Product Title"
+msgstr ""
+
+#: includes/admin/settings_framework/fields.php:14
+#: includes/admin/settings_framework/fields.php:25
+msgid "Product Rating"
+msgstr ""
+
+#: includes/admin/settings_framework/fields.php:15
+#: includes/admin/settings_framework/fields.php:26
+msgid "Product Price"
+msgstr ""
+
+#: includes/admin/settings_framework/fields.php:16
+msgid "Product Excerpt"
+msgstr ""
+
+#: includes/admin/settings_framework/fields.php:17
+msgid "Product Add to cart"
+msgstr ""
+
+#: includes/admin/settings_framework/fields.php:18
+msgid "Product Meta"
+msgstr ""
+
+#: includes/admin/settings_framework/fields.php:37
+#: includes/admin/settings_framework/fields.php:105
+msgid "Notice Position"
+msgstr ""
+
+#: includes/admin/settings_framework/fields.php:38
+#: includes/admin/settings_framework/fields.php:106
+msgid " Where to show the subtitle "
+msgstr ""
+
+#: includes/admin/settings_framework/fields.php:44
+#: includes/admin/settings_framework/fields.php:112
+msgid "Before"
+msgstr ""
+
+#: includes/admin/settings_framework/fields.php:44
+#: includes/admin/settings_framework/fields.php:112
+msgid "After"
+msgstr ""
+
+#: includes/admin/settings_framework/fields.php:46
+#: includes/admin/settings_framework/fields.php:114
+msgid "Where to show the subtitle"
+msgstr ""
+
+#: includes/admin/settings_framework/fields.php:54
+#: includes/admin/settings_framework/fields.php:122
+msgid "Message To Show"
+msgstr ""
+
+#: includes/admin/settings_framework/fields.php:61
+#: includes/admin/settings_framework/fields.php:129
+msgid "WC Notice Style"
+msgstr ""
+
+#: includes/admin/settings_framework/fields.php:61
+#: includes/admin/settings_framework/fields.php:129
+msgid "Custom Style"
+msgstr ""
+
+#: includes/admin/settings_framework/fields.php:62
+#: includes/admin/settings_framework/fields.php:130
+msgid "Display Theme"
+msgstr ""
+
+#: includes/admin/settings_framework/fields.php:63
+#: includes/admin/settings_framework/fields.php:131
+msgid " How you would like to show it ? "
+msgstr ""
+
+#: includes/admin/settings_framework/fields.php:69
+#: includes/admin/settings_framework/fields.php:137
+msgid "Date Format"
+msgstr ""
+
+#: includes/admin/settings_framework/fields.php:70
+#: includes/admin/settings_framework/fields.php:138
+msgid "<a href=\"https://codex.wordpress.org/Formatting_Date_and_Time\">Documentation on date and time formatting. </a>"
+msgstr ""
+
+#: includes/class-extensions.php:23 includes/class-extensions.php:39
+msgid "Unable to process you request. please try again later"
+msgstr ""
+
+#: includes/class-extensions.php:25 includes/class-extensions.php:31
+msgid "Unable To De-Activate Addon. Please Try Again Later"
+msgstr ""
+
+#: includes/class-extensions.php:27
+msgid "Addon De-Activated"
+msgstr ""
+
+#: includes/class-extensions.php:29
+msgid "Addon Already De-Activated"
+msgstr ""
+
+#: includes/class-extensions.php:41 includes/class-extensions.php:47
+msgid "Unable To Activate Addon. Please Try Again Later"
+msgstr ""
+
+#: includes/class-extensions.php:43
+msgid "Addon Activated"
+msgstr ""
+
+#: includes/class-extensions.php:45
+msgid "Addon Already Activated"
+msgstr ""
+
+#: includes/class-extensions.php:112
+msgid "All"
+msgstr ""
+
+#: includes/class-extensions.php:113
+msgid "Active"
+msgstr ""
+
+#: includes/class-extensions.php:114
+msgid "InActive"
+msgstr ""
+
+#: includes/class-extensions.php:206
+msgid "Activate"
+msgstr ""
+
+#: includes/class-extensions.php:207
+msgid "Deactivate"
+msgstr ""
+
+#: includes/functions.php:216
+msgid "General"
+msgstr ""
+
+#: includes/functions.php:219 includes/functions.php:231
+msgid "Save Changes"
+msgstr ""
+
+#: includes/functions.php:436
+msgid "%s"
+msgstr ""
+
+#: includes/functions.php:437
+msgid "Below Add To Cart Button Titles  will be used if the product type is <strong>%s</strong>"
+msgstr ""
+
+#: includes/functions.php:444
+msgid "Button Title If Already Bought"
+msgstr ""
+
+#: includes/functions.php:445
+msgid "Add To Cart Button Title if its already bought. This will be used if the product type is <strong>%s</strong>"
+msgstr ""
+
+#: includes/functions.php:452
+msgid "Button Title If Already In Cart"
+msgstr ""
+
+#: includes/functions.php:453
+msgid "Add To Cart Button Title if its already in cart. This will be used if the product type is <strong>%s</strong>"
+msgstr ""
+
+#: templates/wc_pbpn/listing-advanced.php:4
+#: templates/wc_pbpn/listing-advanced.php:65
+msgid "Order"
+msgstr ""
+
+#: templates/wc_pbpn/listing-advanced.php:5
+#: templates/wc_pbpn/listing-advanced.php:66
+#: templates/wc_pbpn/listing-simple.php:4
+#: templates/wc_pbpn/listing-simple.php:77
+msgid "Product Name"
+msgstr ""
+
+#: templates/wc_pbpn/listing-advanced.php:6
+#: templates/wc_pbpn/listing-advanced.php:67
+#: templates/wc_pbpn/listing-simple.php:6
+#: templates/wc_pbpn/listing-simple.php:79
+msgid "Qty"
+msgstr ""
+
+#: templates/wc_pbpn/listing-advanced.php:7
+#: templates/wc_pbpn/listing-advanced.php:68
+#: templates/wc_pbpn/listing-simple.php:7
+#: templates/wc_pbpn/listing-simple.php:80
+msgid "Action"
+msgstr ""
+
+#: templates/wc_pbpn/listing-advanced.php:18
+#: templates/wc_pbpn/listing-simple.php:39
+msgid "View %s Order"
+msgstr ""
+
+#: templates/wc_pbpn/listing-advanced.php:58
+#: templates/wc_pbpn/listing-simple.php:64
+msgid "Order Again"
+msgstr ""
+
+#: templates/wc_pbpn/listing-simple.php:5
+#: templates/wc_pbpn/listing-simple.php:78
+msgid "Related Order"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Previously Bought Product Notifier For WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wcpbpn.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This plugin will display notifications to shop customers about products they have already bought before with information that is customization ."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Varun Sridharan"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://varunsridharan.in"
+msgstr ""
